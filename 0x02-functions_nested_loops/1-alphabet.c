@@ -11,7 +11,7 @@ void print_alphabet(void)
 {
 	char c = 'a';
 
-	while (c <= '2')
+	while (c <= '27')
 	{
 		_putchar(c);
 		c++;
